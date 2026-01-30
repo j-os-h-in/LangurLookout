@@ -1,0 +1,17 @@
+{
+  "name": "LangurLookout",
+  "short_name": "Langur",
+  "description": "Citizen science platform for Raffles Banded Langur sightings",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/LangurLookout.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
